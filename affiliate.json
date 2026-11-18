@@ -1,0 +1,222 @@
+{
+  "markets": {
+    "com.shopee.vn": {
+      "badge_text": "Gợi ý phụ kiện ATEEZ • Tiếp thị liên kết",
+      "headline": "Bộ sưu tập phụ kiện hot cho ATINY & ATEEZ",
+      "cta_text": "Sắm trên Shopee",
+      "items": [
+        {
+          "id": "ateez_vn_01",
+          "title": "Set 4 Card Bo Góc ATEEZ Photocard Sưu Tầm Kpop Chính Hãng",
+          "price": "45.000đ",
+          "original_price": "75.000đ",
+          "image_url": "https://down-aka-vn.img.susercontent.com/sg-11134207-825a7-mqc1mvz3v9cbfa.webp",
+          "aff_link": "https://s.shopee.vn/5q9pTMCXay"
+        },
+        {
+          "id": "ateez_vn_02",
+          "title": "Tạp Chí Singles Korea Bìa ATEEZ (Yeosang, San, Wooyoung) Bản Đặc Biệt",
+          "price": "180.000đ",
+          "original_price": "250.000đ",
+          "image_url": "https://down-aka-vn.img.susercontent.com/sg-11134207-7rbka-lpfce3fq4pja34.webp",
+          "aff_link": "https://s.shopee.vn/3qOl5h13HI"
+        },
+        {
+          "id": "ateez_vn_03",
+          "title": "Set Card Nhân Vật ANITEEZ ATEEZ KPOP MERCH Chính Hãng (Hongy, Saniyo, Ddeongyo...)",
+          "price": "95.000đ",
+          "original_price": "150.000đ",
+          "image_url": "https://down-aka-vn.img.susercontent.com/sg-11134207-8259r-mux8c1en6dc445.webp",
+          "aff_link": "https://s.shopee.vn/gRjJsrwSv"
+        },
+        {
+          "id": "ateez_vn_04",
+          "title": "Bộ 6 Thẻ Card Bo Góc ATEEZ Concept Red & Black Sưu Tầm Hot Cho ATINY",
+          "price": "55.000đ",
+          "original_price": "90.000đ",
+          "image_url": "https://down-aka-vn.img.susercontent.com/sg-11134207-825a6-mqc1unynp2j0a5.webp",
+          "aff_link": "https://s.shopee.vn/5VWz4mCJYf"
+        },
+        {
+          "id": "ateez_vn_05",
+          "title": "Album ATEEZ Mini Album [GOLDEN HOUR] Kèm Quà Tặng Pre-order Soundwave Chính Hãng",
+          "price": "360.000đ",
+          "original_price": "450.000đ",
+          "image_url": "https://down-aka-vn.img.susercontent.com/sg-11134207-825an-mu8tyz90zxfs75.webp",
+          "aff_link": "https://s.shopee.vn/4fxs5G72WG"
+        }
+      ]
+    },
+    "com.shopee.my": {
+      "badge_text": "ATEEZ Merchandise • Affiliate Picks",
+      "headline": "Top Trending ATEEZ & ATINY Collection",
+      "cta_text": "Shop on Shopee",
+      "items": [
+        {
+          "id": "ateez_my_01",
+          "title": "ATEEZ Official Album POB Lucky Draw Solo Photocard Collection",
+          "price": "RM 12.90",
+          "original_price": "RM 25.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134207-7req3-m221pk47x2qqff.webp",
+          "aff_link": "https://invl.me/clo9414"
+        },
+        {
+          "id": "ateez_my_02",
+          "title": "ATEEZ Mini Album [GOLDEN HOUR] POCAALBUM Official Ver QR & Photocard Set",
+          "price": "RM 45.00",
+          "original_price": "RM 68.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134207-8259l-mu8otsa9i7ltaa.webp",
+          "aff_link": "https://invl.me/clo9418"
+        },
+        {
+          "id": "ateez_my_03",
+          "title": "55pcs/box ATEEZ [GOLDEN HOUR] Lomo Cards HD Photocard Box Set for ATINY",
+          "price": "RM 8.50",
+          "original_price": "RM 15.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-8259m-mvdyw5g63saxcf.webp",
+          "aff_link": "https://invl.me/clo9419"
+        },
+        {
+          "id": "ateez_my_04",
+          "title": "55pcs ATEEZ [GOLDEN HOUR : Part.4] Wooyoung Lomo Card Collection Set",
+          "price": "RM 8.50",
+          "original_price": "RM 15.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-8261i-mk7vu2bzsky006.webp",
+          "aff_link": "https://invl.me/clo941b"
+        },
+        {
+          "id": "ateez_my_05",
+          "title": "ATEEZ [GOLDEN HOUR : Part.4] San Makestar & Hellolive POB Photocards",
+          "price": "RM 14.50",
+          "original_price": "RM 28.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-825b2-mv4a00ktw8hu68.webp",
+          "aff_link": "https://invl.me/clo941f"
+        }
+      ]
+    },
+    "com.shopee.sg": {
+      "badge_text": "ATEEZ Merch • Affiliate Recommendations",
+      "headline": "Trending ATEEZ & ATINY Accessories",
+      "cta_text": "Buy on Shopee",
+      "items": [
+        {
+          "id": "ateez_sg_01",
+          "title": "ATEEZ 8pcs Member Selfie Special Edition Photocard Set",
+          "price": "$4.50",
+          "original_price": "$8.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-8258r-muao16ckwi6e32.webp",
+          "aff_link": "https://invl.me/clo941j"
+        },
+        {
+          "id": "ateez_sg_02",
+          "title": "ATEEZ TOWARDS THE LIGHT World Tour Concert Baseball Jersey Unisex Top",
+          "price": "$18.90",
+          "original_price": "$29.90",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134202-825at-mu0fzc14bri82b.webp",
+          "aff_link": "https://invl.me/clo941m"
+        },
+        {
+          "id": "ateez_sg_03",
+          "title": "ATEEZ Mini Album [GOLDEN HOUR] Official Digipack Unit Ver Ksendy POB",
+          "price": "$15.80",
+          "original_price": "$24.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134207-825al-mu8ofd1z84joc5.webp",
+          "aff_link": "https://invl.me/clo941p"
+        },
+        {
+          "id": "ateez_sg_04",
+          "title": "ATEEZ 4pcs Unit Double Member Selfie Lomo Card Collection Set",
+          "price": "$3.90",
+          "original_price": "$7.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-825b1-muxakb906fid52.webp",
+          "aff_link": "https://invl.me/clo941r"
+        },
+        {
+          "id": "ateez_sg_05",
+          "title": "ATEEZ 8pcs School Uniform Heart Pose Collectible Photocard Set",
+          "price": "$4.50",
+          "original_price": "$8.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-825a1-muxa13jvnrwhd7.webp",
+          "aff_link": "https://invl.me/clo941t"
+        }
+      ]
+    },
+    "com.shopee.ph": {
+      "badge_text": "ATEEZ Merch • Affiliate Recommendations",
+      "headline": "Top Trending ATEEZ & ATINY Collection",
+      "cta_text": "Buy on Shopee",
+      "items": [
+        {
+          "id": "ateez_ph_01",
+          "title": "ATEEZ Mini Album [GOLDEN HOUR] Official Album (Standard / Digipack / POCA Ver)",
+          "price": "₱750",
+          "original_price": "₱1,150",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134201-820l6-mto9t20ce5mpab.webp",
+          "aff_link": "https://invl.me/clo9425"
+        },
+        {
+          "id": "ateez_ph_02",
+          "title": "ATEEZ [GOLDEN HOUR] 8 Members Official Digipack & Exclusive POB Photocards",
+          "price": "₱620",
+          "original_price": "₱950",
+          "image_url": "https://down-ph.img.susercontent.com/file/th-11134207-81zto-ms2lieqsvg90b8.webp",
+          "aff_link": "https://invl.me/clo9426"
+        },
+        {
+          "id": "ateez_ph_03",
+          "title": "ATEEZ MIIMCA x TELECA Official Bouncy Cowboy Concept Photocards Set",
+          "price": "₱320",
+          "original_price": "₱500",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134207-8259y-muiw3s78wbup5c.webp",
+          "aff_link": "https://invl.me/clo9429"
+        },
+        {
+          "id": "ateez_ph_04",
+          "title": "Official ATEEZ Lightstick Ver.2 (LIGHTINY) Concert Cheer Lamp",
+          "price": "₱2,350",
+          "original_price": "₱2,890",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134207-823qo-mota1vlllbsyc6.webp",
+          "aff_link": "https://invl.me/clo942b"
+        },
+        {
+          "id": "ateez_ph_05",
+          "title": "ATEEZ Concert Baseball Jersey Unisex Short Sleeve Kpop Streetwear Top",
+          "price": "₱380",
+          "original_price": "₱650",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134202-8259v-mt38ieum3lz5af.webp",
+          "aff_link": "https://invl.me/clo942f"
+        }
+      ]
+    },
+    "com.shopee.th": {
+      "badge_text": "สินค้า ATEEZ แนะนำ • Shopee Affiliate",
+      "headline": "คอลเลกชันยอดนิยมสำหรับแฟน ATEEZ & ATINY",
+      "cta_text": "ช้อปเลยบน Shopee",
+      "items": []
+    },
+    "com.shopee.id": {
+      "badge_text": "Rekomendasi Aksesoris ATEEZ • Afiliasi",
+      "headline": "Koleksi Aksesoris & Merchandise ATEEZ Terpopuler",
+      "cta_text": "Beli di Shopee",
+      "items": []
+    },
+    "com.shopee.tw": {
+      "badge_text": "ATEEZ 周邊推薦 • 蝦皮分銷",
+      "headline": "為 ATINY 與 ATEEZ 粉絲精選的熱門周邊",
+      "cta_text": "在蝦皮購買",
+      "items": []
+    },
+    "com.shopee.br": {
+      "badge_text": "Acessórios ATEEZ • Afiliado Shopee",
+      "headline": "Coleção Especial para Fãs do ATEEZ & ATINY",
+      "cta_text": "Comprar na Shopee",
+      "items": []
+    },
+    "com.shopee.mx": {
+      "badge_text": "Accesorios de ATEEZ • Afiliado Shopee",
+      "headline": "Colección Especial para Fans de ATEEZ & ATINY",
+      "cta_text": "Comprar en Shopee",
+      "items": []
+    }
+  }
+}
